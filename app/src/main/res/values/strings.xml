@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ispaceUi Test</string>
+    <string name="this_is_homepage">This is HomePage!</string>
+    <string name="click_me">Click Me</string>
+</resources>
